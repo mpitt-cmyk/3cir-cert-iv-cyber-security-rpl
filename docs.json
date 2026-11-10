@@ -1,0 +1,16 @@
+{
+  "$schema": "https://docs.page/schema.json",
+  "name": "Certificate IV in Cyber Security (22603VIC) – RPL with 3CIR",
+  "description": "RPL for the Certificate IV in Cyber Security (22603VIC) with 3CIR, based in Bulimba, Queensland.",
+  "seo": { "noindex": false },
+  "mcp": { "enabled": false },
+  "content": { "showPageTitle": true, "showPageImage": false },
+  "sidebar": [
+    {
+      "group": "Course information",
+      "pages": [
+        { "title": "Certificate IV in Cyber Security (22603VIC)", "href": "/" }
+      ]
+    }
+  ]
+}
